@@ -15,6 +15,14 @@ SpringBootでWebSocketを使ってみるハンズオンです。<br/>
 
 別のIDEを使う方は適宜読み替えてください。
 
+## IntelliJ IDEA 14を使用する場合
+* Build -> Compiler -> Make project automaticallyにチェック
+
+```bash
+cd example-spring-ws-simple/
+./gradlew bootRun
+```
+
 # 内容
 SpringBootを用いてWebSocketを使った簡単なアプリをの作成を行います。<br/>
 複数のブラウザで動作がリンクしていることを確認します。
