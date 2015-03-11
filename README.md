@@ -21,6 +21,7 @@ SpringBootでWebSocketを使ってみるハンズオンです。<br/>
 ```bash
 cd example-spring-ws-simple/
 ./gradlew bootRun
+# 実行後、javaファイルを編集したらclassファイルがリロードされることをログから確認する
 ```
 
 # 内容
